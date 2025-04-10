@@ -22,6 +22,9 @@
   </a>
 </div>
 
+![snake gif](https://github.com/CristianaMoura/CristianaMoura/blob/output/github-contribution-grid-snake.svg)
+
+
 <!-- SNAKE CONTRIBUTION -->
 <br>
 <div align="center">
